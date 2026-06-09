@@ -1,0 +1,14 @@
+C:\123\ISlabs\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.exe.config
+C:\123\ISlabs\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.exe
+C:\123\ISlabs\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.pdb
+C:\123\ISlabs\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.csproj.AssemblyReference.cache
+C:\123\ISlabs\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.csproj.CoreCompileInputs.cache
+C:\123\ISlabs\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.exe
+C:\123\ISlabs\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.pdb
+F:\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.exe.config
+F:\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.exe
+F:\lab2\Decryptor\Decryptor\bin\Debug\Decryptor.pdb
+F:\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.csproj.AssemblyReference.cache
+F:\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.csproj.CoreCompileInputs.cache
+F:\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.exe
+F:\lab2\Decryptor\Decryptor\obj\Debug\Decryptor.pdb
